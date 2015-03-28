@@ -1,0 +1,9 @@
+name: Omikuzi
+main: Omikuzi\Main
+version: 1.0.0
+api: [1.10.0]
+load: POSTWORLD
+description: Omikuzi
+commands:
+ rand:
+  description: オミクジ

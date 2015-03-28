@@ -1,0 +1,13 @@
+name: Kit
+main: Kit\Main
+version: 1.0.0
+api: [1.10.0]
+load: POSTWORLD
+author: setsuna
+description: kit
+website: http://site.pmmp.link/
+commands:
+ kit:
+  description: KIT購入コマンド
+ kitlist:
+  description: KITの一覧確認<1 or 2>
