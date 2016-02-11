@@ -1,0 +1,7 @@
+name: BreakMsg
+main: BreakMsg\Main
+version: 1.0.0
+api: [1.10.0]
+load: POSTWORLD
+author: setsuna
+description: 壊したら怒こっちゃうお？
