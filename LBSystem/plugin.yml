@@ -1,0 +1,5 @@
+name: LBSystem
+main: LBSystem\Main
+version: 0.0.6
+api: [1.11.0]
+description: LBSystem
