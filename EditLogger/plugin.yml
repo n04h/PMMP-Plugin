@@ -1,0 +1,10 @@
+name: EditLogger
+main: EditLogger\Main
+version: 1.0.0
+api: [1.10.0]
+load: POSTWORLD
+author: setsunaMC
+description: EditLogger
+commands:
+ log:
+  description: EditLogger Command. /log help
