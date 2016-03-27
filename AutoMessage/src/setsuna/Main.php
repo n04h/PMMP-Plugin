@@ -15,6 +15,7 @@ namespace setsuna;
 //Default
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
+use pocketmine\utils\Config;
 use pocketmine\Player;
 use pocketmine\Server;
 
