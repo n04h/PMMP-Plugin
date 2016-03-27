@@ -44,7 +44,7 @@ class Main extends PluginBase implements Listener{
             7 => null,
             8 => null,
             9 => null
-        ];
+        ]);
         $this->msg->save();
 
         $this->server->getScheduler()->scheduleRepeatingTask(new CallbackTask([$this, 'AutoMessage']), 20 * $this->config->get('time'));
